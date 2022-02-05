@@ -54,7 +54,7 @@ html{
     position: absolute;
     top: 0;
     right: 0;
-    background:url('selva.jpg') no-repeat center center/cover;
+    background:url('prasath.jpg') no-repeat center center/cover;
     height: 900px;
     width: 100%;
     z-index: -1; 
@@ -202,7 +202,7 @@ html{
     text-align: justify;
     padding: 5px;
     border-radius: 15px;
-    background: linear-gradient(to left,red 50%,white 50%);
+    background: linear-gradient(to left,#78E4F6 50%,white 50%);
     background-size: 200% 200%;
     transition: all .8s;
 }
